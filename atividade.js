@@ -34,7 +34,7 @@ const checkCollision = () => {
 // Função para reiniciar o jogo
 const restartGame = () => {
     gameRunning = false; // Define o estado do jogo como não em execução
-    alert('Game over!'); // Mostra um alerta indicando que o jogo acabou (você pode personalizar isso conforme necessário)
+    alert('A carteira de trabalho te pegou!'); // Mostra um alerta indicando que o jogo acabou (você pode personalizar isso conforme necessário)
     location.reload(); // Recarrega a página para reiniciar o jogo
 }
 

@@ -35,7 +35,7 @@
     text-decoration: none;
     color: #ffd000;
     font-weight: 500;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     padding: 0.7rem;
     font-weight: bolder;
 }
@@ -55,7 +55,7 @@
 }
 .menu-items a{
     position: relative;
-    left: 150px;
+    left: 200px;
     bottom: 60px;
     font-style: bold;
 }
@@ -67,6 +67,70 @@
 }
 .logojogo{
     position: relative;
-    width: 450px;
-    bottom: 100px;
+    width: 500px;
+    top:0px;
+    left: 50px;
+}
+.btn-primary{
+    position: relative;
+    left: 1200px;
+    width: 260px;
+    height: 60px;
+    border-radius: 20px;
+    border-width: 1px;
+    bottom: 500px;
+    background: #783de4;
+    color: #ffd000;
+    font-size: 20px;
+}
+.sobre{
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+.sobre h1{
+    font-size: 40px;
+}
+.sobre h3{
+    font-size: 20px;
+
+}
+.sobre img{
+    width: 400px;
+    
+}
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    position: relative;
+    top: 100px;
+}
+.asa{
+    position: relative;
+    top: 150px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.Enviar{
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.Enviar :hover{
+    background: #fff;
+}
+.form{
+    position: relative;
+    top: 100px;
 }

@@ -6,13 +6,13 @@
 
 .game-board {
     width: 100%; /* Largura da área do jogo */
-    height: 500px; /* Altura da área do jogo */
+    height: 850px; /* Altura da área do jogo */
     border: 1px solid #333; /* Borda da área do jogo */
     margin: 0 auto; /* Centraliza a área do jogo horizontalmente */
     position: relative; /* Define a posição relativa para os elementos filhos */
     top: 100px;
     overflow: hidden; /* Esconde qualquer conteúdo que ultrapasse os limites da div */
-    background-image: url('escritorio.jfif'); /* Define a imagem de fundo */
+    background-image: url('SineBahia-06-e1663101569123.webp'); /* Define a imagem de fundo */
     background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o espaço da div */
     background-position: center; /* Centraliza a imagem horizontal e verticalmente */
     background-repeat: no-repeat; /* Evita a repetição da imagem de fundo */
