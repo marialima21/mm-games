@@ -1,0 +1,72 @@
+/* style.css */
+.header-nav {
+    background: #783de4;
+    width: 100%;
+    height: 100px;
+    float: left;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.navbar {
+    width: 100%;
+    box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+}
+
+.navbar .menu-items {
+    display: flex;
+    position: relative;
+    bottom: 20px;
+}
+
+.navbar .nav-container li {
+    list-style: none;
+}
+
+.navbar .nav-container a {
+    text-decoration: none;
+    color: #ffd000;
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding: 0.7rem;
+    font-weight: bolder;
+}
+
+.navbar .nav-container a:hover {
+    color: #fff;
+}
+
+.nav-container {
+    display: block;
+    position: relative;
+    height: 70px;
+   
+}
+.logo h1{
+    text-align: center;
+}
+.menu-items a{
+    position: relative;
+    left: 150px;
+    bottom: 60px;
+    font-style: bold;
+}
+.logopng{
+    width: 120px;
+    position: relative;
+    left: 20px;
+    bottom: 10px;
+}
+.logojogo{
+    position: relative;
+    width: 450px;
+    bottom: 100px;
+}
